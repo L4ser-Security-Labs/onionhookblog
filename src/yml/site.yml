@@ -1,0 +1,27 @@
+name: OnionHook Blog
+title: OnionHook Blog | Onion site reviews
+description: OnionHook Blog
+tags:
+  - drugs
+  - firearms
+  - hacking
+  - forum
+  - market
+  - russian
+  - blogsite
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  # - title: About
+  #   url: /about
+  # - title: Contact
+  #   url: /contact
+  - title: Feed
+    url: /feed.xml
+email: l4sersec@gmail.com
+# See: https://disqus.com/
+# disqus_username: disqus_username
+# Contact Form Setting
+# See: https://formspree.io/
+# formspree_form_id: formspree_form_id

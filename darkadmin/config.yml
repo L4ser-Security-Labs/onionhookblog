@@ -310,7 +310,7 @@ collections:
           - label: "Show modal on finish post"
             name: "show_modal_on_finish_post"
             widget: "boolean"
-            default: false
+            default: true
           - label: "Two columns layout"
             name: "two_columns_layout"
             widget: "boolean"

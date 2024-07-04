@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/uploads/l4sec.jpg
 name: l4sec
 display_name: L4sec
 position: The One

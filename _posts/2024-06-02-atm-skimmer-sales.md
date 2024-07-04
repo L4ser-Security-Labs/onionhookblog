@@ -61,7 +61,7 @@ According to the operators of this site, payment can be made using any common cr
 
 
 ## Reputation
-The site has been operating since 2020 till date with about 277 customer reviews but what we have observed is that there seems to be zero or any form of complaint about the service by any reviewer. This could mean that the reviews are fake.
+The site has been operating since 2020 till date with about 277 customer reviews but what we have observed is that there seems to be zero or any form of complaint about the service by any reviewer. **This could mean that the reviews are fake**.
 
 As some form of security to criminals making purchases on this site, the operators offer package tracking, a one year warranty where they will, without charge, repair or replace at our option, any device returned for warranty work and found to be defective by them as the seller. 
 

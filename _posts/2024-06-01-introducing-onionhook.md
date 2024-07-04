@@ -4,7 +4,7 @@ layout: post
 title: Introducing OnionHook
 subtitle: 'Simplifiying dark web investigations.'
 description: >-
-  Introducing OnionHook, a new way to carry out investigations on the darkweb
+  Introducing OnionHook, a new way to carry out investigations on the dark web
 image: >-
   https://previews.dropbox.com/p/thumb/ACVZWJRA6GqYIHAFsIE-KhSW4SptWkkmhgCToJo5EwMAmI8Ip2EYsjGHzXx_ND_nkFHTULPFri62k_q00bKkCuCHPqnuo7u3Nvn3p1FG9_P8fndLuM7jhvOXLcEC0OvRq0deexZXVZbceFvnX1p0PFZ5qhO3tQ6IKC9JY1psPGCjZOOR8NYhd3aYikn4qMRq54wpGMsmtdnI7aFSp7CzFxK623ZSEcll7BK-O60K85fF9kYRPdZWGkvVYPYe6LqZL3Q5Mkvu1STAIXcB7Uukv9GHx4PWHmaHdIt14FKXzGNfFtWiyiXiyAWXhWJKPWQSnZ_reCHJ631Pb9HYJfV1vNeByl4uSk3JRMQcKd--NCjomg/p.png
 optimized_image: >-

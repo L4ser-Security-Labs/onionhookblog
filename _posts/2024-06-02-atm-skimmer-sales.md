@@ -57,7 +57,7 @@ The prices of these devices ranges between $450 - $800 per item.
 
 Accessories such as card readers and writers, card embosser and PVC card printers are also being sold on the site with prices ranging from $100 - $600 per item. 
 
-Accoriding to the operatiors of this site, payment can be made using any common cryptocurrency and they can ship using DHL, UPS, TNT and FedEx to any country concealing the devices as low-value electronics to avoid any customs fees. Delivery is made typically between 5-7 days after completing an order.
+According to the operatiors of this site, payment can be made using any common cryptocurrency and they can ship using DHL, UPS, TNT and FedEx to any country, concealing the devices as low-value electronics to avoid any customs fees. Delivery is made typically between 5-7 days after completing an order.
 
 
 ## Reputation

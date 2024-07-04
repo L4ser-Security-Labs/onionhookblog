@@ -3,7 +3,7 @@ date: 2024-06-02 12:26:40
 layout: post
 title: ATM Skimmer Sales
 subtitle: Investigating a darkweb site selling ATM, POS, Gas Pump Skimmers.
-description: In this blog post, we will be looking at a dark web site claiming to sell various type of ATM, POS, Card and Gas Pumps skimmers.
+description: In this blog post, we will be looking at a dark web site claiming to sell various types of ATM, POS, Card and Gas Pumps skimmers.
 image: https://images.unsplash.com/photo-1611605862651-c91b8778ce01?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8QVRNfGVufDB8fDB8fHww
 optimized_image: https://images.unsplash.com/photo-1611605862651-c91b8778ce01?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8QVRNfGVufDB8fDB8fHww
 category: hacking

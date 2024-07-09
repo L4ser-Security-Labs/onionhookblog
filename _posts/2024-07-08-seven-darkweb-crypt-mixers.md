@@ -1,11 +1,11 @@
 ---
-date: 2034-06-02 12:26:40
+date: 2034-07-08 12:26:40
 layout: post
-title: PlasticSharks selling stolen & cloned credit cards alongside PayPal credentials
-subtitle: Investigating a darkweb site claiming to sell stolen cards, cloned cards and compromised PayPal credentials.
-description: In this blog post, we will be looking at a dark web site claiming to sell stolen cards, cloned cards and compromised PayPal credentials.
-image: https://media.istockphoto.com/id/1485534671/photo/contactless-credit-card-payment-unrecognizable-people.webp?b=1&s=170667a&w=0&k=20&c=F2O07k-6kdx65UElTyy4skeaMTDjsLvzvgEUBbOhrOU=
-optimized_image: https://media.istockphoto.com/id/1485534671/photo/contactless-credit-card-payment-unrecognizable-people.webp?b=1&s=170667a&w=0&k=20&c=F2O07k-6kdx65UElTyy4skeaMTDjsLvzvgEUBbOhrOU=
+title: 7 dark web sites offering crypto mixing services
+subtitle: These seven websites on the dark web are offering cypto mixing services to cyber criminals.
+description: In this blog post, we will be identifying dark websites claiming to offer crypto mixing services to cyber criminals.
+image: https://images.unsplash.com/photo-1641956796980-406648b62f92?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGJpdGNvaW58ZW58MHx8MHx8fDA%3D
+optimized_image: https://images.unsplash.com/photo-1641956796980-406648b62f92?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGJpdGNvaW58ZW58MHx8MHx8fDA%3D
 category: hacking
 tags:
   - hacking

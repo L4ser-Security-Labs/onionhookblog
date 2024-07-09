@@ -1,5 +1,5 @@
 ---
-date: 2024-06-01 12:00:00
+date: 2024-07-01 12:00:00
 layout: post
 title: Introducing OnionHook
 subtitle: 'Simplifiying dark web investigations.'

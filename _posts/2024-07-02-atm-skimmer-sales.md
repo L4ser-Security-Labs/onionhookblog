@@ -39,7 +39,7 @@ These devices are typically used by criminals to steal credit card numbers, expi
 #### Gas Pump Skimmers
 Gas pump skimmers are also unauthorized devices that criminals attach to gas pumps to intercept data from the magnetic strips of credit or debit cards. When a customer inserts their card into the compromised gas pump, the skimmer captures and stores the card’s data. This information can include the card number, cardholder’s name, and expiration date, which criminals can use to create counterfeit cards or commit other forms of fraud.
 
-!Gas/Fuel Pump Skimmer image](https://i.postimg.cc/pTcWSq8N/gaspunpskimmer.png "Gas Pump Skimmer image")
+![Gas/Fuel Pump Skimmer image](https://i.postimg.cc/pTcWSq8N/gaspunpskimmer.png "Gas Pump Skimmer image")
 
 
 ## Services offered on this site

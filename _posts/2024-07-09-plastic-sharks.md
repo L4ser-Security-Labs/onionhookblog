@@ -12,7 +12,7 @@ tags:
   - cloned
   - cards
   - paypal
-  - stolen
+  - skimmer
 author: b3tech
 paginate: false
 ---

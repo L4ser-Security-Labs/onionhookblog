@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Code
-slug: code
-description: A category for code related posts.
+title: Firearm
+slug: firearm
+description: A category for firearm related posts.
 ---

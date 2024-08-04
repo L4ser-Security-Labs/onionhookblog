@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Code
-slug: code
-description: A category for code related posts.
+title: Drugs
+slug: drugs
+description: A category for drugs related posts.
 ---

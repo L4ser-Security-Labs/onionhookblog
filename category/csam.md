@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Code
-slug: code
-description: A category for code related posts.
+title: CSAM
+slug: csam
+description: A category for CSAM related posts.
 ---

@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Code
-slug: code
-description: A category for code related posts.
+title: Carding
+slug: carding
+description: A category for carding related posts.
 ---

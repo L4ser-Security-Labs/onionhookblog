@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Code
-slug: code
-description: A category for code related posts.
+title: Hacking
+slug: hacking
+description: A category for hacking related posts.
 ---

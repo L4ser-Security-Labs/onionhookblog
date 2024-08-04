@@ -2,17 +2,17 @@
 date: 2024-07-08 10:26:40
 layout: post
 title: PlasticSharks selling stolen & cloned credit cards alongside PayPal credentials
-subtitle: Investigating a darkweb site claiming to sell stolen cards, cloned cards and compromised PayPal credentials.
+subtitle: Investigating a dark web site claiming to sell stolen cards, cloned cards and compromised PayPal credentials.
 description: In this blog post, we will be looking at a dark web site claiming to sell stolen cards, cloned cards and compromised PayPal credentials.
 image: https://media.istockphoto.com/id/1485534671/photo/contactless-credit-card-payment-unrecognizable-people.webp?b=1&s=170667a&w=0&k=20&c=F2O07k-6kdx65UElTyy4skeaMTDjsLvzvgEUBbOhrOU=
 optimized_image: https://media.istockphoto.com/id/1485534671/photo/contactless-credit-card-payment-unrecognizable-people.webp?b=1&s=170667a&w=0&k=20&c=F2O07k-6kdx65UElTyy4skeaMTDjsLvzvgEUBbOhrOU=
 category: carding
 tags:
-  - carding
-  - cloned
-  - cards
-  - paypal
-  - skimmer
+ - carding
+ - cloned
+ - cards
+ - PayPal
+ - skimmer
 author: b3tech
 paginate: false
 ---
@@ -21,7 +21,7 @@ paginate: false
 
 Stolen cards refer to compromised card data, not the physical cards themselves. These compromised cards and PayPal accounts often have balances but are sold at a discounted price to enable the buyer to turn a profit.
 
-PlasticSharks provide access to this compromised data by cloning the stolen information onto new physical cards, which are then shipped to the buyer after purchase. These sites also sell PayPal account credentials, providing the login information once payment is received via their Bitcoin wallet.
+PlasticSharks provides access to this compromised data by cloning the stolen information onto new physical cards, which are then shipped to the buyer after purchase. These sites also sell PayPal account credentials, providing the login information once payment is received via their Bitcoin wallet.
 
 
 ## How does PlasticSharks get stolen cards and PayPal credentials?
@@ -29,10 +29,10 @@ PlasticSharks provide access to this compromised data by cloning the stolen info
 This is the use of an electronic device to copy and store credit card information which can be loaded to new cards and sold out.
 
 **Phishing:**
-This is scamming of victims to get their personal information by gaining their trust which is done via: email, text or phone.
+This is scamming of victims to get their personal information by gaining their trust which is done via email, text or phone.
 
 **Spyware and other malware:**
-This are software designed to collect information without the victim’s consent.
+This is software designed to collect information without the victim’s consent.
 
 
 ## Services offered on this site
@@ -48,25 +48,25 @@ Various data on sale are posted, indicating the product, kind (type of data), in
 
 ![PlasticSharks Listings](https://i.postimg.cc/YCb7vvsb/plasticsharksdata.png "PlasticSharks Listings")
 
-Once a user selects the desired data, they go to the cart where they confirm they want to check out or update the cart. Upon checkout, the user is provided with a checkout form to be filled out and get a unique bitcoin address to send the funds. The user is then provided with a tracking number that is used to track order.
+Once a user selects the desired data, they go to the cart where they confirm they want to check out or update the cart. Upon checkout, the user is provided with a checkout form to be filled out and gets a unique Bitcoin address to send the funds. The user is then provided with a tracking number that is used to track the order.
 
 ![PlasticSharks Checkout](https://i.postimg.cc/7YN8RCww/plasticsharkscheckout.png "PlasticSharks Checkout")
 
-The site provides a “How to Guide” on how to safely cashout and provides a very easy to use and user-friendly sales site.
+The site provides a “How to Guide” on how to safely cash out and provides a very easy-to-use and user-friendly sales site.
 
 ## Reputation
-The site offers a tracking service for packages once orders are made. This give the client the sense of satisfaction being able to track and know where the products are at any time using the order number provided during purchase. The site claims orders are to be received within 7 working days in any country in the world.
+The site offers a tracking service for packages once orders are made. This gives the client the sense of satisfaction of being able to track and know where the products are at any time using the order number provided during purchase. The site claims orders are to be received within 7 working days in any country in the world.
 
 ![PlasticSharks Comment](https://i.postimg.cc/Njh9dzsW/plasticsharkscomment1.png "PlasticSharks Comment")
 
-This site begun operation on 1st January 2024 and has a total of 303 reviews posted on the site.
+This site began operation on 1st January 2024 and has a total of 303 reviews posted on the site.
 
 ![PlasticSharks Comment](https://i.postimg.cc/rsBmYDkS/plasticsharkscomment2.png "PlasticSharks Comment")
 
 Many of the comments are positive, which could mean **the reviews posted are fake.**
 
 ## More Images
-See some more images of some more of the site below:
+See some more images of the sites below:
 
 ![PlasticSharks Landing](https://i.postimg.cc/QtBKRCBq/plasticsharks.png "PlasticSharks Landing")
 

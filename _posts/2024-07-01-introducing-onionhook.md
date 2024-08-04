@@ -2,20 +2,20 @@
 date: 2024-07-01 12:00:00
 layout: post
 title: Introducing OnionHook
-subtitle: 'Simplifiying dark web investigations.'
+subtitle: 'Simplifying dark web investigations.'
 description: >-
-  Introducing OnionHook, a new way to carry out investigations on the dark web
+ Introducing OnionHook, a new way to carry out investigations on the dark web
 image: >-
-  https://i.postimg.cc/gkydQ0GG/onionhooklanding.png
+ https://i.postimg.cc/gkydQ0GG/onionhooklanding.png
 optimized_image: >-
-  https://i.postimg.cc/gkydQ0GG/onionhooklanding.png
+ https://i.postimg.cc/gkydQ0GG/onionhooklanding.png
 category: blog
 tags:
-  - onionhook
-  - blog
-  - darkweb
-  - investigations
-  - tor
+ - onionhook
+ - blog
+ - dark web
+ - investigations
+ - tor
 author: l4sec
 paginate: false
 ---

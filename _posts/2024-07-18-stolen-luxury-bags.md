@@ -40,7 +40,7 @@ The site works as an e-commerce site with listings of items for sale with differ
 Once a user selects their interested item, a page with the description of the item is displayed showing details such as the model of the bag, the size, the original price and the new buying price for the stolen item.
 ![CSGW Item](https://i.postimg.cc/wjdydGp0/CSGW-item-price.png "CSGW Item")
 
-Other images of the item are also posted to give the customer different viewing angles of the bag they're about to purchase
+Other images of the item are also posted to give the customer different viewing angles of the bag they're about to purchase.
 
 ![CSGW Item](https://i.postimg.cc/8kjZ0tN7/CSGW-item-1.png "CSGW Item")
 ![CSGW Item](https://i.postimg.cc/mDhhwxY2/CSGW-item-2.png "CSGW Item")

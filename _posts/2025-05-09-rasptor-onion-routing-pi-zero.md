@@ -126,8 +126,9 @@ then select Toggle Tor routing
 ## 🧪 Build from Source
 ``` sh
 git clone https://github.com/l4sersec/rasptor.git
-dpkg-deb --build rasptor
 ```
+<pre>bash dpkg-deb --build rasptor </pre>
+
 
 ### 📊 Logs & Auditing
 Rasptor logs every execution to `/var/log/rasptor/rasptor.log`, including:

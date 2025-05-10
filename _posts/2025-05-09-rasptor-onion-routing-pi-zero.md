@@ -101,18 +101,8 @@ sudo rasptor
 ```
 
 You’ll see a menu like:
+![Rasptor menu](https://i.postimg.cc/VsgRhK3s/rasptor-control.png "Rasptor menu")
 
-```
-=============================
-       Rasptor Control
-=============================
-1) Enable Tor routing
-2) Disable Tor routing
-3) Toggle Tor routing
-4) Exit
-=============================
-Choose an option [1-4]:
-```
 
 then select Enable Tor routing.
 
